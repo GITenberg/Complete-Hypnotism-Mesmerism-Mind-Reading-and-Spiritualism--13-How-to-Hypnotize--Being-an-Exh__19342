@@ -1,0 +1,35 @@
+_repo: Complete-Hypnotism-Mesmerism-Mind-Reading-and-Spiritualism--13-How-to-Hypnotize--Being-an-Exh__19342
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alpheus, A.
+    gutenberg_agent_id: '8604'
+    url: http://www.gutenberg.org/2009/agents/8604
+description: A musical genius came to the Suspension Bridge at Niagara Falls, and
+  asked permission to cross; but as he had no money, his request was contemptuously
+  refused. He stepped away from the entrance, and, drawing his violin from his case,
+  began sounding notes up and down the scale. He finally discovered, by the thrill
+  that sent a tremor through the mighty structure, that he had found the note on which
+  the great cable that upheld the mass, was keyed. He drew his bow across the string
+  of the violin again, and the colossal wire, as if under the spell of a magician,
+  responded with a throb that sent a w.
+gutenberg_issued: '2006-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19342'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritualism'
+- !lcsh 'Hypnotism'
+- !lcc 'BF'
+- !lcsh 'Telepathy'
+- !lcsh 'Mesmerism'
+title: "Complete Hypnotism, Mesmerism, Mind-Reading and Spiritualism\r\nHow to Hypnotize:\
+  \ Being an Exhaustive and Practical System of Method, Application, and Use"
+url: http://www.gutenberg.org/ebooks/19342
